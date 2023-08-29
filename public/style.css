@@ -1,0 +1,19 @@
+/* public/style.css */
+.blog-block {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: #f9f9f9;
+    cursor: pointer;
+}
+
+.blog-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.blog-content,
+.comment-section {
+    display: none;
+}
